@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "703136955787",
+    "project_id": "useruz",
+    "storage_bucket": "useruz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703136955787:android:607b06ff0d278ef3a8438e",
+        "android_client_info": {
+          "package_name": "uz.group.useruz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703136955787-27at343v0knf4282m0hm859jdi4lf8hj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.group.useruz",
+            "certificate_hash": "fa0ed31f9a2d8c191a69b991b01770538efd1926"
+          }
+        },
+        {
+          "client_id": "703136955787-5868vjcpdpss5ujr92rbpu6ovc27hsr4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.group.useruz",
+            "certificate_hash": "ae3b8fa64ffc2a5d6d597b917ba8bb036aac99de"
+          }
+        },
+        {
+          "client_id": "703136955787-j205vukvvg9du72tcbsim9aajgiu9fqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.group.useruz",
+            "certificate_hash": "955afce66dd38afc44a7208b97fc518c43a24d27"
+          }
+        },
+        {
+          "client_id": "703136955787-obotubq74lj9377lcv3ukd17310j91rl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.group.useruz",
+            "certificate_hash": "1a0b5814b6aa217460ac17450e5dd14ffe0970bd"
+          }
+        },
+        {
+          "client_id": "703136955787-p9upte4h8anf1hjuvvuj933pc3p0b9su.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.group.useruz",
+            "certificate_hash": "576b1cf95c1c0a93d98dbe03e94f9c5aea4e9b5c"
+          }
+        },
+        {
+          "client_id": "703136955787-qhnng0apnkhoa4t8roou639l90nir1ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.group.useruz",
+            "certificate_hash": "ca6fac9426126aa13048c395eb3f2a980eac9d3e"
+          }
+        },
+        {
+          "client_id": "703136955787-61p80b5hng61vjhkd4gofsaee6bcmgu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDA3JisD2eWSGZSYSpaqRnUhBkCqd0vbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703136955787-61p80b5hng61vjhkd4gofsaee6bcmgu2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "703136955787-c1uq6bibct3ruvilmhshj0nlthhd3g8e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ua.group.useruz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703136955787:android:585ce87fb2c34bd9a8438e",
+        "android_client_info": {
+          "package_name": "uz.smart.useruz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703136955787-1r678oocctela9htbs77p6d4cf8rrhrd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.smart.useruz",
+            "certificate_hash": "1a0b5814b6aa217460ac17450e5dd14ffe0970bd"
+          }
+        },
+        {
+          "client_id": "703136955787-8iqvr1b9okub01qfc7lkoapnm3b9jhdq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.smart.useruz",
+            "certificate_hash": "ae3b8fa64ffc2a5d6d597b917ba8bb036aac99de"
+          }
+        },
+        {
+          "client_id": "703136955787-gmcj039h1s985rul8pfggsr2l87fgnq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.smart.useruz",
+            "certificate_hash": "955afce66dd38afc44a7208b97fc518c43a24d27"
+          }
+        },
+        {
+          "client_id": "703136955787-ua2cjq1n39r9kgfam4mdbjkoughvmgoe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.smart.useruz",
+            "certificate_hash": "fa0ed31f9a2d8c191a69b991b01770538efd1926"
+          }
+        },
+        {
+          "client_id": "703136955787-61p80b5hng61vjhkd4gofsaee6bcmgu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDA3JisD2eWSGZSYSpaqRnUhBkCqd0vbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703136955787-61p80b5hng61vjhkd4gofsaee6bcmgu2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "703136955787-c1uq6bibct3ruvilmhshj0nlthhd3g8e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ua.group.useruz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "language": "en-US",
+        "text": "This is a technical update. It doesn't seem to change, but the app works better."
+    },
+    {
+        "language": "uz-UZ",
+        "text": "Bu texnik yangilanish. Bunda o'zgarishlar ko'rinmaydi, ammo ilova yaxshiroq ishlaydi."
+    },
+    {
+        "language": "ru-RU",
+        "text": "Это техническое обновление. Кажется, ничего не меняется, но приложение работает лучше."
+    }
+]
